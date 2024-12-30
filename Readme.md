@@ -47,13 +47,20 @@ The goal of this project is to develop a model that predicts `Item_Outlet_Sales`
 
 ## **Installation and Usage**
 
-1. Clone this repository:  
-   **git clone https://github.com/your\_DARVINDROLE/Machine-Learning-Project.git**  
-2. Navigate to the project directory:  
-   **cd Machine-Learning-Project**  
-3. Install the required dependencies:  
-   **pip install \-r requirements.txt**  
-4. Run the notebook or script to train and evaluate the model:  
+1. Clone this repository:
+   
+   **git clone https://github.com/your\_DARVINDROLE/Machine-Learning-Project.git**
+    
+3. Navigate to the project directory:
+    
+   **cd Machine-Learning-Project**
+   
+5. Install the required dependencies:
+    
+   **pip install \-r requirements.txt**
+    
+7. Run the notebook or script to train and evaluate the model:
+   
    **python SALES PREDICTION.py**
 
 ## **Results**
