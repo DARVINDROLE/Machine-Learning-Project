@@ -67,8 +67,8 @@ The goal of this project is to develop a model that predicts `Item_Outlet_Sales`
 
 The final model achieves good predictive performance with the following metrics:
 
-* **R-squared:** \[Insert value\]  
-* **Mean Squared Error (MSE):** \[Insert value\]
+* **R-squared:** 98.67889 
+* **Mean Squared Error (MSE):** 96.78585
 
 Visualizations of the results are available in the EDA and evaluation sections of the project notebook.
 
